@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.tiburcio.bicycles.engineio.EngineIoHandler"/>
+    <fullyQualifiedTypeName name="org.springframework.web.socket.WebSocketHandler"/>
+    <fullyQualifiedTypeName name="org.springframework.web.socket.server.HandshakeInterceptor"/>
+    <fullyQualifiedTypeName name="org.springframework.web.socket.TextMessage"/>
+    <fullyQualifiedTypeName name="org.springframework.web.socket.BinaryMessage"/>
+    <fullyQualifiedTypeName name="org.springframework.web.socket.config.annotation.EnableWebSocket"/>
+    <fullyQualifiedTypeName name="org.springframework.web.socket.config.annotation.WebSocketConfigurer"/>
+    <fullyQualifiedTypeName name="org.springframework.web.socket.config.annotation.WebSocketHandlerRegistry"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="io.socket.engineio.server.EngineIoServer"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+</qualifiedTypeNameHistroy>
